@@ -28,7 +28,7 @@ const Section3 = () => {
               planificar una reunión y poder conocer sus proyecciones y la
               magnitud de sus necesidades
             </p>
-            <button className="px-4 py-2 mx-auto md:mx-0 bg-[#0AC05E] rounded-2xl text-white">
+            <button className="px-4 w-fit py-2 mx-auto md:mx-0 bg-[#0AC05E] rounded-3xl text-white">
               Contactar
             </button>
           </div>
@@ -44,7 +44,7 @@ const Section3 = () => {
               propuesta que incluyen requisitos que debe cumplir el sistema y
               una estimación de tiempo y costo
             </p>
-            <button className="px-4 py-2 mx-auto md:mx-0 bg-[#0AC05E] rounded-2xl text-white">
+            <button className="px-4 w-fit py-2 mx-auto md:mx-0 bg-[#0AC05E] rounded-3xl text-white">
               Conocer más
             </button>
           </div>
